@@ -4,7 +4,7 @@ describe '#meal_choice' do
   end
 
 def meal_choice
-  puts = meat
+  puts = "meat"
 end
 
   it 'should allow you to set a meal' do

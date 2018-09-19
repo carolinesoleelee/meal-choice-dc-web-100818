@@ -3,8 +3,8 @@ describe '#meal_choice' do
     expect(meal_choice).to eq("meat")
   end
 
-def meal_choice(meat)
-  puts "#{meat}"
+def meal_choice
+  puts "meat"
 end
 
   it 'should allow you to set a meal' do

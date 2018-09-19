@@ -12,6 +12,6 @@ end
   end
 end
 
-def meal_choice(meal)
-  puts = "#{meal}"
+def meal_choice(meat)
+  puts = "#{meat}"
 end

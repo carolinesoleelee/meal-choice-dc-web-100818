@@ -11,3 +11,7 @@ end
     expect(meal_choice("vegan")).to eq("vegan")
   end
 end
+
+def meal_choice(vegan)
+  puts = "vegan"
+end

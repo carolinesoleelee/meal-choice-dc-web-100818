@@ -8,5 +8,5 @@ describe '#meal_choice' do
   end
 
 def meal_choice(meal = "meat")
-  puts = "meal"
+  meal
 end

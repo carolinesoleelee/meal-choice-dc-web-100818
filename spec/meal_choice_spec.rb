@@ -12,6 +12,6 @@ end
   end
 end
 
-def meal_choice("vegan")
+def meal_choice(vegan)
   puts = "#{vegan}"
 end
